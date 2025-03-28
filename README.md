@@ -5,7 +5,7 @@
 
 This project focuses on analyzing customer data from a multi-national bank to develop a predictive model for customer churn. The primary objective is to identify key factors contributing to customer attrition and accurately predict high-risk users. By leveraging machine learning techniques, specifically the Random Forest algorithm, this project aims to provide data-driven strategies for product, marketing and financial optimization, ultimately enhancing customer retention.
 
-**Business Problem:**
+**Business Problem and Deliverables:**
 
 Customer churn poses a significant challenge for the multi-national bank, impacting revenue and customer lifetime value. This project aims to address this problem by delivering the following:
 

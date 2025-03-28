@@ -1,6 +1,15 @@
-# Churn Rate Prediction --- for Product, Marketing and Financial Analytics at a Multi-national Bank
 
-Data: all users who hit an e-commerce site: whether they converted or not as well as some of their characteristics such as their country, the marketing channel, their age, whether they are new to the site and the number of pages visited (as a proxy for site activity/time spent on site).
+# Customer Churn Prediction: Data-Driven Retention at a Multi-National Bank
 
-The goal is to predict conversion rate via a machine learning model (with the end-to-end model pipeline), and come up with recommendations for the product and marketing teams to improve user conversion rate. 
+**Project Overview:**
+
+This project focuses on analyzing customer data from a multi-national bank to develop a predictive model for customer churn. The primary objective is to identify key factors contributing to customer attrition and accurately predict high-risk users. By leveraging machine learning techniques, specifically the Random Forest algorithm, this project aims to provide data-driven strategies for product, marketing and financial optimization, ultimately enhancing customer retention.
+
+**Business Problem:**
+
+Customer churn poses a significant challenge for the multi-national bank, impacting revenue and customer lifetime value. This project aims to address this problem by delivering the following:
+
+* A comprehensive exploratory data analysis and visualization report on customer churn, providing actionable insights.
+* A trained Random Forest machine learning model for accurate churn prediction.
+* A set of data-driven business recommendations (product, marketing, finance) to improve customer retention and optimize product and marketing strategies.
 

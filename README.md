@@ -20,3 +20,8 @@ Below is a plot of the feature importances from the predictive model.
 For more details of the data analysis, machine learning modeling, data visualizations, insights, and business recommendations, see the Jupyter Notebook in the repo. 
 
 ![feature_importances_for_churn](<feature_importance.png>)
+
+**Technologies Used:**
+
+* Python (pandas, scikit-learn, matplotlib, seaborn)
+* Jupyter Notebook

@@ -13,4 +13,6 @@ Customer churn poses a significant challenge for the multi-national bank, impact
 * A trained Random Forest machine learning model for accurate churn prediction.
 * A set of data-driven business recommendations (product, marketing, finance) to improve customer retention and optimize product and marketing strategies.
 
+Below is a plot of feature importances from the predictive model. 
+
 ![feature_importances_for_churn](<feature_importance.png>)

@@ -13,8 +13,10 @@ Customer churn poses a significant challenge for the multi-national bank, impact
 * A trained Random Forest machine learning model for accurate churn prediction.
 * A set of data-driven business recommendations (product, marketing, finance) to improve customer retention and optimize product and marketing strategies.
 
-**Remarks and Key Visualization**
+**Remarks**
 
-Below is a plot of the feature importances from the predictive model. For more details of the data analysis, machine learning modeling, data visualizations, insights, and business recommendations, see the Jupyter Notebook in the repo. 
+Below is a plot of the feature importances from the predictive model. 
+
+For more details of the data analysis, machine learning modeling, data visualizations, insights, and business recommendations, see the Jupyter Notebook in the repo. 
 
 ![feature_importances_for_churn](<feature_importance.png>)

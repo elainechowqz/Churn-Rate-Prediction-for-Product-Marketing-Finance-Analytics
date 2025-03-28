@@ -9,7 +9,7 @@ This project focuses on analyzing customer data from a multi-national bank to de
 
 Customer churn poses a significant challenge for the multi-national bank, impacting revenue and customer lifetime value. This project aims to address this problem by delivering the following:
 
-* A comprehensive exploratory data analysis and visualization report on customer churn, providing actionable insights.
+* A comprehensive data analysis and visualization report on customer churn, providing actionable insights.
 * A trained Random Forest machine learning model for accurate churn prediction.
 * A set of data-driven business recommendations (product, marketing, finance) to improve customer retention and optimize product and marketing strategies.
 

@@ -15,7 +15,7 @@ Customer churn poses a significant challenge for the multi-national bank, impact
 
 **Remarks**
 
-Below is a plot of the feature importances from the predictive model. 
+Below is a plot of the feature importances for churn prediction. 
 
 ![feature_importances_for_churn](<feature_importance.png>)
 
